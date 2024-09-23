@@ -28,5 +28,6 @@ Loop until the user decides to exit.
 Validate user input to ensure grades are within acceptable ranges (e.g., 0-100).
 Handle potential issues with updating grades for non-existing students.
 
-https://1drv.ms/i/c/8bff43da23ff6ccc/EYEYKWZFNXdIhtFEdDeBIX4BY3ADjOkdHBHzilEVqU4cyw?e=YF8dfD
+![Screenshot 2024-09-23 210420](https://github.com/user-attachments/assets/0d9c173a-8550-4d18-8fe4-55435fb2c6dc)
+
 
